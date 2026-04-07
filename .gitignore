@@ -1,0 +1,5 @@
+ft_otp.key
+key.hex
+key.txt
+__pycache__/
+*.pyc
